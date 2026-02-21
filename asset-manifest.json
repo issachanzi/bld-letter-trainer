@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bld-letter-trainer-deploy/static/css/main.f855e6bc.css",
+    "main.js": "/bld-letter-trainer-deploy/static/js/main.3872e9c3.js",
+    "static/js/453.c1cfc859.chunk.js": "/bld-letter-trainer-deploy/static/js/453.c1cfc859.chunk.js",
+    "index.html": "/bld-letter-trainer-deploy/index.html",
+    "main.f855e6bc.css.map": "/bld-letter-trainer-deploy/static/css/main.f855e6bc.css.map",
+    "main.3872e9c3.js.map": "/bld-letter-trainer-deploy/static/js/main.3872e9c3.js.map",
+    "453.c1cfc859.chunk.js.map": "/bld-letter-trainer-deploy/static/js/453.c1cfc859.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3872e9c3.js"
+  ]
+}
